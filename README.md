@@ -2,7 +2,7 @@
   <img height="170" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 </div>
 
-<h1 align="center">🎮 PLAYER PROFILE: YOUR_NAME</h1>
+<h1 align="center">🎮 PLAYER PROFILE: tamihstick</h1>
 <h3 align="center">🕹️ Status: Online | Rank: Developer | Mode: Creative</h3>
 
 ---
@@ -22,7 +22,7 @@
 ## 🧾 PLAYER BIO
 
 ```diff
-+ Name: Your Name
++ Name: tamihstick
 + Class: Full Stack Adventurer
 + Location: Planet Earth
 + Guild: Open Source
